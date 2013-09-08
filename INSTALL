@@ -1,0 +1,5 @@
+How to use uTask library:
+1. Configure uTask using utask.h
+2. Compile utask.c
+3. Change your software to make use of uTask.
+4. Link your software with utask.o file.
